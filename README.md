@@ -1,23 +1,30 @@
 <div align="center">
 
-<!-- ANIMATED BANNER GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
-
-<!-- GLITCH NAME -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=SHAKIB%20KHAN&fontSize=65&fontColor=00FF41&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20CEH%20%7C%20Founder&descSize=18&descAlignY=85&descColor=00FF41" width="100%" />
-
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=+%E2%96%B6+Initializing+system...;+%E2%96%B6+Full+Stack+Developer+%5BACTIVE%5D;+%E2%96%B6+CEH+Certification+%5BVERIFIED+%E2%9C%93%5D;+%E2%96%B6+Startup+Mode+%5BACTIVATED%5D;+%E2%96%B6+Open+to+Collabs+%26+Contracts;+%E2%96%B6+Building+the+future..." />
+<!-- CYBERPUNK CODING GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%" />
 
 <br>
 
-![](https://img.shields.io/badge/STATUS-AVAILABLE-00FF41?style=for-the-badge&labelColor=000000&color=003B00)
-![](https://img.shields.io/badge/CEH-CERTIFIED-00FF41?style=for-the-badge&labelColor=000000&color=003B00)
-![](https://img.shields.io/badge/STARTUP-IN%20PROGRESS-00FF41?style=for-the-badge&labelColor=000000&color=003B00)
+<!-- NAME -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=SHAKIB%20KHAN&fontSize=65&fontColor=00FF41&animation=fadeIn&fontAlignY=60" width="100%" />
+
+<!-- SUBTITLE -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=800&color=00FF41&center=true&vCenter=true&width=500&height=40&lines=Full+Stack+Developer+%7C+CEH+%7C+Founder" />
 
 <br>
 
-<img src="https://visitcount.itsvg.in/api?id=shakib-SKRLS&label=VISITORS&color=12&icon=6&pretty=false" />
+<!-- TYPING LINES -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1000&color=00FF41&center=true&vCenter=true&width=500&height=40&lines=%E2%96%B6+Initializing+system...;%E2%96%B6+Full+Stack+Developer+%5BACTIVE%5D;%E2%96%B6+CEH+Certification+%5BVERIFIED%5D;%E2%96%B6+Startup+Mode+%5BACTIVATED%5D;%E2%96%B6+Open+to+Collabs+%26+Contracts;%E2%96%B6+Building+the+future..." />
+
+<br><br>
+
+![](https://img.shields.io/badge/STATUS-AVAILABLE-brightgreen?style=for-the-badge&labelColor=000000&color=003B00)
+![](https://img.shields.io/badge/CEH-CERTIFIED-brightgreen?style=for-the-badge&labelColor=000000&color=003B00)
+![](https://img.shields.io/badge/STARTUP-IN%20PROGRESS-brightgreen?style=for-the-badge&labelColor=000000&color=003B00)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shakib-SKRLS&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge)
 
 </div>
 
@@ -69,7 +76,7 @@ logs:
 </td>
 <td width="45%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280px" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280px" />
 
 <br>
 
@@ -201,7 +208,7 @@ logs:
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="180px" />
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100px" />
 
 <br>
 
@@ -235,7 +242,6 @@ logs:
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<!-- FOOTER GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 </div>
