@@ -1,186 +1,229 @@
 <div align="center">
 
-```
-███████╗██╗  ██╗ █████╗ ██╗  ██╗██╗██████╗
-██╔════╝██║  ██║██╔══██╗██║ ██╔╝██║██╔══██╗
-███████╗███████║███████║█████╔╝ ██║██████╔╝
-╚════██║██╔══██║██╔══██║██╔═██╗ ██║██╔══██╗
-███████║██║  ██║██║  ██║██║  ██╗██║██████╔╝
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝
-```
+<!-- MATRIX HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=SHAKIB%20KHAN&fontSize=70&color=0:00FF41,50:008F11,100:003B00&fontColor=00FF41&animation=twinkling&stroke=00FF41&strokeWidth=2&desc=Full%20Stack%20Developer%20%7C%20CEH%20%7C%20Founder&descSize=20&descAlignY=75&descColor=00FF41" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=22&center=true&vCenter=true&width=600&height=60&duration=3000&color=00FF41&lines=Full+Stack+Developer+%7C+CEH+%7C+Founder;Building+systems+that+matter.;Hacking+the+future%2C+one+commit+at+a+time.;console.log('Welcome+to+my+terminal...');" alt="Typing SVG" />
+<!-- ANIMATED TYPING -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=18&center=true&vCenter=true&width=700&height=50&duration=2500&color=00FF41&background=00000000&lines=▶+Initializing+system...;▶+Loading+Shakib.exe...;▶+Full+Stack+Developer+detected;▶+CEH+certification+verified+✓;▶+Startup+mode+ACTIVATED;▶+Ready+to+build+the+future." />
 
-<img src="https://visitcount.itsvg.in/api?id=shakib-SKRLS&icon=6&color=12" />
+<br>
+
+<!-- BADGES ROW -->
+![](https://img.shields.io/badge/STATUS-AVAILABLE_FOR_COLLABS-00FF41?style=for-the-badge&labelColor=000000&color=003B00)
+![](https://img.shields.io/badge/CEH-CERTIFIED-00FF41?style=for-the-badge&labelColor=000000&color=003B00)
+![](https://img.shields.io/badge/STARTUP-IN_PROGRESS-00FF41?style=for-the-badge&labelColor=000000&color=003B00)
+
+<br>
+
+<img src="https://visitcount.itsvg.in/api?id=shakib-SKRLS&label=VISITORS&color=12&icon=6&pretty=false" />
 
 </div>
 
 ---
 
-## `~/whoami`
-
-```bash
-shakib@terminal:~$ cat about.txt
 ```
+╔══════════════════════════════════════════════════════════════════════╗
+║                        > ./whoami                                    ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<table>
+<tr>
+<td width="55%">
 
 ```yaml
-Name        : Shakib Khan
-Role        : Full Stack Developer  |  CEH  |  Founder
-Location    : 🌐 The Internet
-Status      : [■■■■■■■■░░] Building something big...
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#   OPERATOR PROFILE: SHAKIB KHAN
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Mission     : Engineering elegant systems by day,
-              hunting vulnerabilities by night,
-              and laying the groundwork for a company
-              that will change how we think about software.
+identity:
+  name       : "Shakib Khan"
+  alias      : "shakib-SKRLS"
+  clearance  : "Full Stack + CEH"
+  status     : "Founding a company 🚀"
 
-Interests   : Backend Architecture · Cybersecurity · Systems Programming
-              Entrepreneurship · Open Source · Low-level wizardry
+mission:
+  primary    : "Build high-impact software"
+  secondary  : "Secure the digital world"
+  tertiary   : "Launch my own startup"
 
-Fun Facts   : ► Certified Ethical Hacker (CEH)
-              ► Fluent in 6 programming languages
-              ► Currently bootstrapping my own startup
-              ► If it can be automated, it will be automated
+skills:
+  languages  : [JS, Python, Rust, Go, C++, Bash]
+  mindset    : "Engineer. Hacker. Founder."
+
+logs:
+  - "⚡ Building robust backend systems"
+  - "🔐 Certified Ethical Hacker (CEH)"
+  - "🌐 Full Stack development (Web + Mobile)"
+  - "🚀 Bootstrapping my own tech company"
+  - "📡 Open to collabs & contracts"
+  - "🐧 Terminal > GUI. Always."
 ```
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" />
+
+<br>
+
+![](https://img.shields.io/badge/BUILDING-Something_Big-00FF41?style=flat-square&labelColor=0D0D0D)
+![](https://img.shields.io/badge/HACKING-Ethically-00FF41?style=flat-square&labelColor=0D0D0D)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `~/tech-stack`
-
-```bash
-shakib@terminal:~$ ls -la ./skills/
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                     > ls -la ./tech-arsenal/                         ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-#### ⚡ Languages
+### ⚡ `Languages`
 
 <div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00FF41)
-![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00FF41)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41)
-
+<img src="https://skillicons.dev/icons?i=js,python,rust,go,cpp,bash&theme=dark&perline=6" />
 </div>
 
-#### 🖥️ Frontend
+### 🖥️ `Frontend Stack`
 
 <div align="center">
-
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00FF41)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FF41)
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&theme=dark&perline=6" />
 </div>
 
-#### ⚙️ Backend & Infra
+### ⚙️ `Backend & Infrastructure`
 
 <div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF41)
-![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00FF41)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF41)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41)
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,docker,mongodb,postgres&theme=dark&perline=6" />
 </div>
 
-#### 🔐 Security Arsenal
+### 🔐 `Security & OS`
 
 <div align="center">
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00FF41)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00FF41)
-![CEH](https://img.shields.io/badge/CEH_Certified-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41)
-
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,neovim,vim&theme=dark&perline=6" />
 </div>
 
----
-
-## `~/github-stats`
-
-```bash
-shakib@terminal:~$ git log --stat
-```
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shakib-SKRLS&locale=en&mode=daily&theme=matrix&hide_border=true&border_radius=0&fire=00FF41&ring=00FF41&currStreakLabel=00FF41" height="165" alt="Streak Graph" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shakib-SKRLS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=000000" height="165" alt="Languages Graph" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=shakib-SKRLS&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=000000&count_private=true" height="165" alt="Stats Graph" />
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=1A1A1A)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=1A1A1A)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=1A1A1A)
+![CEH](https://img.shields.io/badge/CEH_Certified-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=1A1A1A)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=1A1A1A)
 
 </div>
 
 ---
 
-## `~/trophies`
-
-```bash
-shakib@terminal:~$ cat ./achievements.log
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                    > git log --stat --all                            ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=shakib-SKRLS&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img src="https://github-readme-stats.vercel.app/api?username=shakib-SKRLS&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=0D0D0D&count_private=true&rank_icon=github" height="175" />
+
+<img src="https://streak-stats.demolab.com?user=shakib-SKRLS&locale=en&mode=daily&theme=matrix&hide_border=true&fire=FF6600&ring=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=008F11" height="175" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shakib-SKRLS&locale=en&layout=donut&langs_count=8&theme=chartreuse-dark&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=0D0D0D" height="220" />
 
 </div>
 
 ---
 
-## `~/activity`
-
-```bash
-shakib@terminal:~$ git graph --all
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                       > cat ./trophies.log                           ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shakib-SKRLS&radius=0&theme=matrix&area=true&hide_border=true&line=00FF41&point=00FF41&area_color=003B00" height="280" alt="Activity Graph" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=shakib-SKRLS&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## `~/connect`
-
-```bash
-shakib@terminal:~$ cat ./contact.json
 ```
+╔══════════════════════════════════════════════════════════════════════╗
+║                   > git graph --contribution                         ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shakib-SKRLS&radius=0&theme=matrix&area=true&hide_border=true&line=00FF41&point=00FF41&area_color=003B00&color=00FF41&bg_color=0D0D0D" width="100%" />
+
+</div>
+
+---
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                      > ./snake_animation.sh                          ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shakib-SKRLS/shakib-SKRLS/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shakib-SKRLS/shakib-SKRLS/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/shakib-SKRLS/shakib-SKRLS/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                     > cat ./contact.json                             ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+<a href="https://github.com/shakib-SKRLS">
+  <img src="https://img.shields.io/badge/GitHub-shakib--SKRLS-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D0D0D&color=003B00" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D0D0D&color=003B00" />
+</a>
+&nbsp;
+<a href="mailto:YOUR-EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Reach_Me-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D0D0D&color=003B00" />
+</a>
+
+<br><br>
 
 ```json
 {
-  "github"   : "https://github.com/shakib-SKRLS",
-  "linkedin" : "https://linkedin.com/in/YOUR-LINKEDIN",
-  "email"    : "YOUR-EMAIL@gmail.com",
-  "status"   : "Open to collabs, contracts & co-founders 🚀"
+  "open_to"  : ["Freelance", "Collabs", "Co-founders", "Contracts"],
+  "building" : "My own tech company 🚀",
+  "response" : "< 24 hours"
 }
 ```
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/shakib-SKRLS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:YOUR-EMAIL@gmail.com)
-
-</div>
-
----
-
-<div align="center">
+<br>
 
 ```
-> "The quieter you become, the more you are able to hear." — Kali Linux
+╔══════════════════════════════════════════════════════════════════════╗
+║  "The quieter you become, the more you are able to hear." — Kali    ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-![snake gif](https://raw.githubusercontent.com/shakib-SKRLS/shakib-SKRLS/output/github-contribution-grid-snake-dark.svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer&fontColor=000000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B00,100:00FF41&height=120&section=footer&animation=twinkling" width="100%" />
 
 </div>
