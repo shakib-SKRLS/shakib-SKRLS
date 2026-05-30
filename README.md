@@ -214,8 +214,8 @@ logs:
 ```
 
 [![GitHub](https://img.shields.io/badge/GitHub-shakib--SKRLS-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D0D0D&color=003B00)](https://github.com/shakib-SKRLS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D0D0D&color=003B00)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Reach__Me-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D0D0D&color=003B00)](mailto:YOUR-EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D0D0D&color=003B00)](https://www.linkedin.com/in/shakib-khan-810265237/?skipRedirect=true)
+[![Email](https://img.shields.io/badge/Email-Reach__Me-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D0D0D&color=003B00)](mailto:skrlskhan123@gmail.com)
 
 <br><br>
 
