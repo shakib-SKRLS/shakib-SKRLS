@@ -208,21 +208,9 @@ logs:
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100px" />
-
-<br>
-
-<a href="https://github.com/shakib-SKRLS">
-  <img src="https://img.shields.io/badge/GitHub-shakib--SKRLS-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D0D0D&color=003B00" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D0D0D&color=003B00" />
-</a>
-&nbsp;
-<a href="mailto:YOUR-EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach_Me-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D0D0D&color=003B00" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-shakib--SKRLS-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D0D0D&color=003B00)](https://github.com/shakib-SKRLS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D0D0D&color=003B00)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Reach__Me-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D0D0D&color=003B00)](mailto:YOUR-EMAIL@gmail.com)
 
 <br><br>
 
