@@ -143,16 +143,17 @@ logs:
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://github-stats-alpha.vercel.app/api?username=shakib-SKRLS&cc=0D0D0D&tc=00FF41&ic=00FF41&bc=0D0D0D" height="175" />
 <img src="https://streak-stats.demolab.com?user=shakib-SKRLS&locale=en&mode=daily&theme=matrix&hide_border=true&fire=FF6600&ring=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=008F11" height="175" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shakib-SKRLS&theme=github_dark" height="175" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shakib-SKRLS&locale=en&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=0D0D0D" height="175" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakib-SKRLS&theme=github_dark" height="175" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shakib-SKRLS&theme=github_dark" height="175" />
 
 <br>
 
-![shakib-SKRLS's Stats](https://github-readme-stats.vercel.app/api?username=shakib-SKRLS&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=00FF41&icon_color=00FF41&text_color=00FF41)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shakib-SKRLS&theme=github_dark&utcOffset=5.5" height="175" />
 
 </div>
 
