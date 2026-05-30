@@ -1,14 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=SHAKIB%20KHAN&fontSize=70&color=0:00FF41,50:008F11,100:003B00&fontColor=00FF41&animation=twinkling&stroke=00FF41&strokeWidth=2&desc=Full%20Stack%20Developer%20%7C%20CEH%20%7C%20Founder&descSize=20&descAlignY=75&descColor=00FF41" width="100%" />
+<!-- ANIMATED BANNER GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=18&center=true&vCenter=true&width=700&height=50&duration=2500&color=00FF41&background=00000000&lines=▶+Initializing+system...;▶+Loading+Shakib.exe...;▶+Full+Stack+Developer+detected;▶+CEH+certification+verified+✓;▶+Startup+mode+ACTIVATED;▶+Ready+to+build+the+future." />
+<!-- GLITCH NAME -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=SHAKIB%20KHAN&fontSize=65&fontColor=00FF41&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20CEH%20%7C%20Founder&descSize=18&descAlignY=85&descColor=00FF41" width="100%" />
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=+%E2%96%B6+Initializing+system...;+%E2%96%B6+Full+Stack+Developer+%5BACTIVE%5D;+%E2%96%B6+CEH+Certification+%5BVERIFIED+%E2%9C%93%5D;+%E2%96%B6+Startup+Mode+%5BACTIVATED%5D;+%E2%96%B6+Open+to+Collabs+%26+Contracts;+%E2%96%B6+Building+the+future..." />
 
 <br>
 
-![](https://img.shields.io/badge/STATUS-AVAILABLE_FOR_COLLABS-00FF41?style=for-the-badge&labelColor=000000&color=003B00)
+![](https://img.shields.io/badge/STATUS-AVAILABLE-00FF41?style=for-the-badge&labelColor=000000&color=003B00)
 ![](https://img.shields.io/badge/CEH-CERTIFIED-00FF41?style=for-the-badge&labelColor=000000&color=003B00)
-![](https://img.shields.io/badge/STARTUP-IN_PROGRESS-00FF41?style=for-the-badge&labelColor=000000&color=003B00)
+![](https://img.shields.io/badge/STARTUP-IN%20PROGRESS-00FF41?style=for-the-badge&labelColor=000000&color=003B00)
 
 <br>
 
@@ -64,7 +69,7 @@ logs:
 </td>
 <td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280px" />
 
 <br>
 
@@ -88,7 +93,6 @@ logs:
 ```
 [ LANGUAGES ]
 ```
-
 <img src="https://skillicons.dev/icons?i=js,python,rust,go,cpp,bash&theme=dark&perline=6" />
 
 <br><br>
@@ -96,7 +100,6 @@ logs:
 ```
 [ FRONTEND STACK ]
 ```
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&theme=dark&perline=6" />
 
 <br><br>
@@ -104,7 +107,6 @@ logs:
 ```
 [ BACKEND & INFRASTRUCTURE ]
 ```
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,docker,mongodb,postgres&theme=dark&perline=6" />
 
 <br><br>
@@ -112,7 +114,6 @@ logs:
 ```
 [ SECURITY & OS ]
 ```
-
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,neovim,vim&theme=dark&perline=6" />
 
 <br>
@@ -136,7 +137,6 @@ logs:
 ```
 
 <img src="https://github-readme-stats.vercel.app/api?username=shakib-SKRLS&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=0D0D0D&count_private=true&rank_icon=github" height="175" />
-
 <img src="https://streak-stats.demolab.com?user=shakib-SKRLS&locale=en&mode=daily&theme=matrix&hide_border=true&fire=FF6600&ring=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=008F11" height="175" />
 
 <br>
@@ -201,6 +201,10 @@ logs:
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="180px" />
+
+<br>
+
 <a href="https://github.com/shakib-SKRLS">
   <img src="https://img.shields.io/badge/GitHub-shakib--SKRLS-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D0D0D&color=003B00" />
 </a>
@@ -231,6 +235,7 @@ logs:
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B00,100:00FF41&height=120&section=footer&animation=twinkling" width="100%" />
+<!-- FOOTER GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 </div>
