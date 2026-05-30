@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- CYBERPUNK CODING GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%" />
+<!-- CYBERPUNK HEADER GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%" />
 
 <br>
 
