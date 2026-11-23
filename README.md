@@ -24,3 +24,5 @@ Tech: JavaScript, TypeScript, Node.js, Express.js, PostgreSQL, MongoDB, Redis, D
 
 ---
 Security: CEH — one line, not the headline. Interested in secure backend code.
+
+![GitHub contribution snake](https://raw.githubusercontent.com/shakib-SKRLS/shakib-SKRLS/output/github-contribution-grid-snake.svg)
